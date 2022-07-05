@@ -1,0 +1,32 @@
+# for vim temp files
+*~
+*.swp
+*.swo
+
+# OSX
+.DS_Store
+
+# node
+node_modules
+
+# Python
+*.pyc
+*.egg-info
+*.whl
+
+# artifacts
+build
+
+#IDE
+.vscode/
+stats.json
+
+# Prettier
+.prettierignore
+_dev
+
+# Storybook
+storybook-static
+
+# Jest
+coverage
